@@ -1,0 +1,38 @@
+[
+    {
+        "name":"Aliva priva jardin",
+        "price":"47,043",
+        "detail":"Jakarta Garden City Street, Cakung. Pulo Gadang, Jakarta",
+        "image":"./r1.png"
+    },
+    {
+        "name":"Assatti garden city",
+        "price":"66,353",
+        "detail":"Pahalwan Street XVII No.215, Cinagka, Sawangan, Depok",
+        "image":"./r2.png"
+    },
+    {
+        "name":"Citralan Puri Serang",
+        "price":"35,853",
+        "detail":"Ruko Puri India Residence Block A7, Lingkar Street",
+        "image":"./r3.png"
+    },
+    {
+        "name":"Aliva priva jardin",
+        "price":"47,043",
+        "detail":"Jakarta Garden City Street, Cakung. Pulo Gadang, Jakarta",
+        "image":"./r1.png"
+    },
+    {
+        "name":"Assatti garden city",
+        "price":"66,353",
+        "detail":"Pahalwan Street XVII No.215, Cinagka, Sawangan, Depok",
+        "image":"./r2.png"
+    },
+    {
+        "name":"Citralan Puri Serang",
+        "price":"35,853",
+        "detail":"Ruko Puri India Residence Block A7, Lingkar Street",
+        "image":"./r3.png"
+    }
+]
